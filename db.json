@@ -1,10 +1,7 @@
 {
     "statusCode": "OK",
     "statusIsOk": true,
-    "statusMessage": "",
-    "statusPath": "",
     "data": {  
-        "id": "3204c256-e2fa-4730-af73-5fa341105312",
         "sku": "S5601723",
         "stock": 223
     },
