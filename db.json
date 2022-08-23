@@ -1,6 +1,6 @@
 {
     "statusCode": "OK",
-    "statusIsOk": true,
+    "statusIsOk": true
     "data": {  
         "sku": "S5601723",
         "stock": 223
